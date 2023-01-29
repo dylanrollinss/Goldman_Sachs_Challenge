@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/DataspellProjects/415/.idea/415.iml" filepath="$USER_HOME$/DataspellProjects/415/.idea/415.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/Homework/.idea/Homework.iml" filepath="$USER_HOME$/DataspellProjects/Homework/.idea/Homework.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/STAT 421/.idea/STAT 421.iml" filepath="$USER_HOME$/DataspellProjects/STAT 421/.idea/STAT 421.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/TAMUhack/.idea/TAMUhack.iml" filepath="$USER_HOME$/DataspellProjects/TAMUhack/.idea/TAMUhack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>

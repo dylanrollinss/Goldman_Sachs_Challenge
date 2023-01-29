@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="$USER_HOME$/opt/anaconda3" project-jdk-type="Python SDK" />
+  <component name="PyCharmDSProjectLayout">
+    <option name="id" value="JupyterRightHiddenStructureLayout" />
+  </component>
+  <component name="RMarkdownSettings">
+    <option name="renderProfiles">
+      <map>
+        <entry key="file://$USER_HOME$/DataspellProjects/415/HW1.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$USER_HOME$/DataspellProjects/415/HW1.pdf" />
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataspellProjects/415" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataspellProjects/415/HomeworkTemplate.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$USER_HOME$/DataspellProjects/415/HomeworkTemplate.pdf" />
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataspellProjects/415" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataspellProjects/415/r.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$USER_HOME$/DataspellProjects/415/r.pdf" />
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataspellProjects/415" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataspellProjects/Homework/HomeworkTemplate.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$USER_HOME$/DataspellProjects/Homework/HomeworkTemplate.pdf" />
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataspellProjects/Homework" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataspellProjects/Homework/SampleHomework.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataspellProjects/Homework" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/Downloads/08ffab533e1c60edaf7a512c1ad9058d-2e53c8abc202c519616e2a9ae450f1053fcdb155/SampleHomework.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/Downloads/08ffab533e1c60edaf7a512c1ad9058d-2e53c8abc202c519616e2a9ae450f1053fcdb155" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
